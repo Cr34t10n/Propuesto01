@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Aprende JAVA - Curso de Spring</title>
+        <title>Aprende JAVA</title>
         <style type="text/css">
             #navegador ul{
                 list-style-type: none;
